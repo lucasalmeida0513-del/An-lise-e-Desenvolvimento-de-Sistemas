@@ -1,21 +1,71 @@
-O TaskManager é uma aplicação web desenvolvida para ajudar equipes e indivíduos a gerenciar suas tarefas de maneira eficiente. O sistema permite a criação, atualização, organização e visualização de tarefas, sendo útil para pequenas equipes de trabalho ou para uso pessoal.
+5 VAGAS QUE TENHO INTERESSE NA ÁREA DE TI:
 
-Tecnologias Utilizadas:
+1. Desenvolvedor(a) Full Stack
 
-Frontend: React, Redux, Material-UI
+2. Engenheiro(a) de Dados
 
-Backend: Node.js, Express
+3. Cientista de Dados
 
-Banco de Dados: MongoDB
+4. Engenheiro de Computação
 
-Autenticação: JWT (JSON Web Tokens)
+5. Arquiteto de Solução
 
-Arquitetura: MVC (Model-View-Controller)
+Hard Skills Obrigatórias & Hard Skills Desejáveis
 
-Deploy: Vercel (Frontend), Heroku (Backend)
+1. Desenvolvedor(a) Full Stack:
 
-Extras: Nodemailer para envio de notificações por e-mail
+HSO:
 
-Objetivo do Projeto:
+Front-end
 
-Este projeto foi desenvolvido para aplicar os conceitos de Análise de Sistemas, incluindo levantamento de requisitos, modelagem de dados e design de arquitetura, com o objetivo de construir uma solução prática para gerenciamento de tarefas.
+Back-end
+
+Banco de Dados
+
+HSD:
+
+TypeScript
+
+ DevOps & CI/CD
+
+Conhecimentos de UX/UI
+
+
+2. Engenheiro(a) de Dados :
+
+HSO:
+
+Programação
+
+Bancos de Dados
+
+Cloud & Armazenamento
+
+HSD:
+
+Data Warehousing
+
+CI/CD aplicado a dados
+
+Machine Learning básico
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
